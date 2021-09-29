@@ -18,7 +18,7 @@ Individual
 
 I had used Unity briefly before but this was a lot more in depth. Learned how scripts and GameObjects work in unity as well as how to generate prefabs for easier convenience. Also learned how to have many objects interacting with each other at once in terms of detection systems for turret rotation and bullet impact. 
 
-One thing that held me back a lot was my computer, couldn't seem to handle Unity well so waiting to see the effects of any code changes took minutes longer than expected as well as any debugging. I do like Unity as a program but wish there were a debug tool in the editor rather than waiting for the scripts to load and then notify of any errors. (There might be and I might not know). 
+One thing that held me back a lot was my computer, couldn't seem to handle Unity well so waiting to see the effects of any code changes took minutes longer than expected as well as any debugging. I do like Unity as a program but wish there were a debug tool in the editor rather than waiting for the scripts to load and then notify of any errors. (There might be and I might not know). Also with there was an easier way to work with imported assets as it took me a few tries to get the file in its correct location.
 
 Making this game was fun but a lot more time consuming than I thought it would be. 
 
